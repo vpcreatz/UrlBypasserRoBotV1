@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-from pybypasser import Bypasser
+from PyBypasser import Bypasser
 
 api_id = '20960397'
 api_hash = 'd68d847d3abb2087bf74f5d0683c2993'
